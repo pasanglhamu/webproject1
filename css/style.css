@@ -49,7 +49,7 @@ html{
     position: absolute;
     top: 0;
     right: 0;
-    background: url(../8.jpg) no-repeat center center/cover;
+    background: url(../2.jpg) no-repeat center center/cover;
     height: 900px;
     width: 100%;
     z-index:-1;
@@ -95,7 +95,7 @@ html{
 }
 #pic img{
     width: 250px;
-    height: 400px;
+    height: 460px;
 }
 #intro{
     display: flex;
@@ -151,7 +151,7 @@ html{
     text-align: justify;
     padding: 10px;
     border-radius: 15px;
-    background: linear-gradient(to top, rgb(255,45,45)50%, white 50%);
+    background: linear-gradient(to top, rgb(78, 54, 175)50%, white 50%);
     background-size: 100% 200%;
     transition: all .8s;
 }
@@ -159,7 +159,7 @@ html{
     background-position: left bottom;
     color: white;
     border: none;
-    box-shadow: 0 0 20px rgb(255,45,45);
+    box-shadow: 0 0 20px rgb(78,54,175);
 }
 .box img{
     width: 80px;
@@ -225,3 +225,6 @@ html{
     margin: 10px 10px;
     border-radius: 15px;
 }
+/* Reference Images taken from 
+ Place holder Image - https://socialistmodernism.com/placeholder-image/
+ Home Backgroung - https://wallpaperaccess.com/download/aesthetic-flower-laptop-2259946 */
