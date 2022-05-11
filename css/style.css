@@ -110,11 +110,10 @@ html{
 #portfolio{
     display: flex;
     flex-direction: column;
-    background-color: rgba(0,0,0,.8);
     color: white;
     align-items: center;
     padding: 20px;
-    height: 760px;
+    height: 900px;
 }
 .gallery{
     display: flex;
@@ -224,6 +223,21 @@ html{
     height: 550px;
     margin: 10px 10px;
     border-radius: 15px;
+}
+.footer{
+    background-color: rgb(229, 218, 204);
+    justify-content: center;
+    text-align: center;
+    font-size: 1.1rem;
+    position: fixed; 
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 40px;
+}
+.details{
+    justify-content: center;
+    text-align: center;
 }
 /* Reference Images taken from 
  Place holder Image - https://socialistmodernism.com/placeholder-image/
